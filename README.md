@@ -9,6 +9,6 @@ Remote controller for Robocon 2023
 控制帧结构
 
 ![控制帧结构](img/control_frame.png)
-
+1
 ## 监控机器人状态
 TODO
